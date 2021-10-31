@@ -2,4 +2,4 @@
 Data Visualisation
 
 My Output:
-![alt text] (covid cases.png)
+!image (https://github.com/BhuviGoel/Data-Visualisation/blob/main/covidCases.jpg?raw=true)
