@@ -1,4 +1,5 @@
 # Project 103
 Data Visualisation
 
-My Output
+My Output:
+![alt text] (covid cases.png)
