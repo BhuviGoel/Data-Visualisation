@@ -2,4 +2,5 @@
 Data Visualisation
 
 My Output:
-(https://github.com/BhuviGoel/Data-Visualisation/blob/main/covidCases.png?raw=true)
+![alt tag](https://github.com/BhuviGoel/Data-Visualisation/blob/main/covidCases.png?raw=true)
+
